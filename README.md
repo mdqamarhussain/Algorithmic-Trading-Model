@@ -1,7 +1,5 @@
 # Algorithmic-Trading-Model
 ```markdown
-# Algorithmic Trading Model
-
 ## Overview
 
 This project implements an algorithmic trading model designed to make automated trading decisions based on a set of predefined rules. The model utilizes a combination of technical indicators, signal generation, and performance metrics to inform trading strategies. The goal is to provide a flexible and extensible framework for algorithmic trading enthusiasts and professionals.
@@ -86,6 +84,6 @@ Contributions are welcome!
 
 ## Acknowledgments
 
-- faizantalibkhan: Co-author and contributor
-- mdqamarhussain: Co-author and contributor
+- @FAIZANTKHAN: Co-author and contributor
+- @mdqamarhussain: Co-author and contributor
   
