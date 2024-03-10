@@ -84,6 +84,6 @@ Contributions are welcome!
 
 ## Acknowledgments
 
-- @FAIZANTKHAN: Co-author and contributor
-- @mdqamarhussain: Co-author and contributor
+- [Faizan Talib Khan](https://github.com/FAIZANTKHAN): Co-author and contributor
+- [Md Qamar Hussain](https://github.com/mdqamarhussain): Co-author and contributor
   
